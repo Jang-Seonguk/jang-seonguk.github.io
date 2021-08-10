@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "custom" # "air", "aqua", "contrast", "dark", "dirt",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hyeon's DevLog"
+title                    : "Seong-uk's DevLog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Hyeon Jiwon"
-description              : "An amazing website."
-url                      : "https://Hyeonjiwon.github.io" # the base hostname & protocol for your site e.g. 
+name                     : "Jang Seong-uk"
+description              : #
+url                      : "https://Jang-Seonguk.github.io" # the base hostname & protocol for your site e.g. 
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "Hyeonjiwon/Hyeonjiwon.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "Jang-Seonguk/jang-seonguk.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : "hyeon's-blog" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "Seong-uk's-blog" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -107,15 +107,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hyeon Jiwon"
-  avatar           : "/assets/img/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  name             : "Jang Seong-uk"
+  avatar           : "/assets/img/lion.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Dongguk University"
   location         : "South Korea"
   email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:zlone1208@gmail.com
+      url: mailto:sunguk7158@naver.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -127,10 +127,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Hyeonjiwon"
+      url: "https://github.com/Jang-Seonguk"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/__najiwon"
+      #url: "https://instagram.com/__najiwon"
 
 # Site Footer
 footer:
@@ -143,7 +143,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Hyeonjiwon"
+      url: "https://github.com/Jang-Seonguk"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -152,7 +152,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/__najiwon"
+      #url: "https://instagram.com/__najiwon"
 
 
 # Reading Files
